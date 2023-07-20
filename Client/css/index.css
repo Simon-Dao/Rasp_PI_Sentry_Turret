@@ -1,0 +1,46 @@
+#video_feed_container{
+  float:left;
+  display:block;
+  background-color: black;
+  margin: 20px;
+  width: 800px;
+  height: 600px;
+  position: relative;
+}
+#buttons-controls{
+  display:block;
+  float:left;
+  margin:0;
+  position: relative;
+  width:200px;
+  height:400px;
+}
+.button{
+  background-color: green;
+  width: 93px;
+  height: 100px;
+}
+#up-button{
+
+}
+#left-button{
+  
+}
+#right-button{
+  
+}
+#down-button{
+  
+}
+#autopilot-button{
+  border: none;
+  border-radius: 10px;
+  position: relative;
+  background-color: #8CFF8A;
+  width: 232px;
+  height: 84px;
+}
+#autopilot-text{
+  font-size: 32px;
+  font-family: 'Courier New', Courier, monospace;
+}
